@@ -11,7 +11,7 @@ The following table contains the time and memory constraints for each grade:
 | Time Limit | Memory Limit | Grade |
 |------------|--------------|-------|
 | 14 s       | 35 MB        | 18/30 |
-| 9          | 30 MB        | 21/30 | 
+| 9 s        | 30 MB        | 21/30 | 
 | 6 s        | 25 MB        | 24/30 |
 | 4.5 s      | 20 MB        | 27/30 |
 | 3 s        | 15 MB        | 30/30 |
