@@ -17,4 +17,7 @@ The following table contains the time and memory constraints for each grade:
 | 3 s        | 15 MB        | 30/30 |
 | 1.5 s      | 14 MB        | 30L/30|
 
+(NOTE: Due to the fact that I had to wait for the deadline to publish my source code, the above results were derived from what I remembered, therefore there might be some inaccuracies in
+a few of the grade classes and thus this table serves just as an example of how programs were scored)
+
 This project reached the second to last maximum score of 30/30 (no _cum laude_ due to too much time used, even though memory-wise it was within the 30 _cum laude_ memory requirement).
